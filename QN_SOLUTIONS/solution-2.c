@@ -1,3 +1,4 @@
+// Sum of two numbers
 #include <stdio.h>
 
 int sum(int *a, int *b); // initializing the function sum() with two pointer parameters
